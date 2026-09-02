@@ -11,11 +11,12 @@ This repository will grow as I learn and implement different machine learning co
 * [ ] Linear Regression
 * [ ] Logistic Regression
 * [ ] K-Nearest Neighbors (KNN)
-* [ ] Decision Trees
+<!-- * [ ] Decision Trees
 * [ ] Random Forest
 * [ ] Support Vector Machines (SVM)
 * [ ] Naive Bayes
-
+* [ ] 
+-->
 ### Unsupervised Learning
 
 * [ ] K-Means Clustering

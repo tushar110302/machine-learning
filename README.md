@@ -17,11 +17,11 @@ This repository will grow as I learn and implement different machine learning co
 * [ ] Naive Bayes
 * [ ] 
 -->
-### Unsupervised Learning
+<!-- ### Unsupervised Learning
 
 * [ ] K-Means Clustering
 * [ ] Hierarchical Clustering
-* [ ] Principal Component Analysis (PCA)
+* [ ] Principal Component Analysis (PCA) -->
 
 ### More to Come
 
